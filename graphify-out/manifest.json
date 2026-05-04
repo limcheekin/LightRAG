@@ -1,0 +1,1382 @@
+{
+  "/home/limcheekin/dev/ws/py/LightRAG/setup.py": {
+    "mtime": 1777901180.836703,
+    "hash": "e296448105c13a1bab2d29c5fae958e3"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/tests/test_postgres_migration.py": {
+    "mtime": 1777901180.8476746,
+    "hash": "c80f16b1ebf1ae381256b630763c8679"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/tests/test_batch_graph_operations.py": {
+    "mtime": 1777901180.8374016,
+    "hash": "1df4ae460447657b750d087f987c77ee"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/tests/test_qdrant_upsert_batching.py": {
+    "mtime": 1777901180.8476746,
+    "hash": "9236daecb27a0d0658ad0520e1b794bc"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/tests/test_postgres_client_manager.py": {
+    "mtime": 1777901180.8466747,
+    "hash": "8bc5a89ce5aff2cd32d56d60caf0dd35"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/tests/test_aquery_data_endpoint.py": {
+    "mtime": 1777901180.8374016,
+    "hash": "3b3972e3fd0afc8a793abd4065a24533"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/tests/test_batch_embeddings.py": {
+    "mtime": 1777901180.8374016,
+    "hash": "5bd0e2747aa0302b488b0c71a60f0754"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/tests/test_postgres_upsert.py": {
+    "mtime": 1777901180.8476746,
+    "hash": "637b4624430cf4e8e0e97e3208997acb"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/tests/test_llm_cache_tools_opensearch.py": {
+    "mtime": 1777901180.8396747,
+    "hash": "478c1e3ca810defe82f9f5989ee7ff8c"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/tests/test_description_api_validation.py": {
+    "mtime": 1777901180.8376749,
+    "hash": "8b0bfcf6133b0fa670a42c09c7d089ac"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/tests/test_mongo_storage.py": {
+    "mtime": 1777901180.8456748,
+    "hash": "67633f251cf881de04799022de70f5e9"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/tests/test_faiss_meta_inconsistency.py": {
+    "mtime": 1777901180.8376749,
+    "hash": "f03f8ec73366f48bdd77ba1f3c7f23f1"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/tests/test_document_file_path_normalization.py": {
+    "mtime": 1777901180.8376749,
+    "hash": "16cd1b894e07eb3e98e8f4e5ea21f33c"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/tests/test_postgres_retry_integration.py": {
+    "mtime": 1777901180.8476746,
+    "hash": "c55aa8fed6d7fe5d2208e8cf6a2adc0f"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/tests/test_postgres_upsert_edge_cypher.py": {
+    "mtime": 1777901180.8476746,
+    "hash": "9df4168ee5a20ce0780d8340f017bcef"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/tests/test_no_model_suffix_safety.py": {
+    "mtime": 1777901180.8466747,
+    "hash": "725c3a71380c24a6a057c6392431a5f2"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/tests/test_neo4j_fulltext_index.py": {
+    "mtime": 1777901180.8456748,
+    "hash": "39ff5a334a9d52346e6dc53ffbcf856c"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/tests/test_dimension_mismatch.py": {
+    "mtime": 1777901180.8376749,
+    "hash": "96ec033e1fe0f63accd23740d1c6e8c9"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/tests/test_workspace_migration_isolation.py": {
+    "mtime": 1777901180.8486748,
+    "hash": "59d4c299135102aec87c708de0449175"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/tests/test_runtime_target_validation.py": {
+    "mtime": 1777901180.8486748,
+    "hash": "258ce84150d419548eb26be2ca93ac5c"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/tests/test_asymmetric_embedding.py": {
+    "mtime": 1777901180.8374016,
+    "hash": "08685b2cb45a780de5d4179d36223012"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/tests/test_lightrag_ollama_chat.py": {
+    "mtime": 1777901180.8396747,
+    "hash": "9262cf5b9d3959b2d44903a5ebf0fee9"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/tests/test_postgres_performance_timing.py": {
+    "mtime": 1777901180.8476746,
+    "hash": "0a0c1d0feff4d0fc834b93a9833df204"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/tests/test_milvus_kwargs_bridge.py": {
+    "mtime": 1777901180.8396747,
+    "hash": "5df12a375fd9fd5726ea0c3c564c876c"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/tests/test_postgres_cypher_injection.py": {
+    "mtime": 1777901180.8466747,
+    "hash": "cc0e35c27cb1837dda5ee44ccd34f6b1"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/tests/test_doc_status_chunk_preservation.py": {
+    "mtime": 1777901180.8376749,
+    "hash": "3bc3b644a8ae3e08e0038dedde6582da"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/tests/test_voyageai_embed.py": {
+    "mtime": 1777901180.8486748,
+    "hash": "70bc08eb518e7b6a992e051249f50cd2"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/tests/test_workspace_isolation.py": {
+    "mtime": 1777901180.8486748,
+    "hash": "f0e23259c70e3810bc016acb530cc435"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/tests/test_opensearch_storage.py": {
+    "mtime": 1777901180.8466747,
+    "hash": "0bdbe0e5c256717594850eec244ddc75"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/tests/test_memgraph_storage.py": {
+    "mtime": 1777901180.8396747,
+    "hash": "50313942a36a59944fc4da925424d22f"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/tests/test_degree_return_type.py": {
+    "mtime": 1777901180.8376749,
+    "hash": "a3e6aec7465f1e910676b51959d0847f"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/tests/test_rerank_chunking.py": {
+    "mtime": 1777901180.8486748,
+    "hash": "b4fab4ac80e0d0ec83566446c6af9b43"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/tests/test_graph_storage.py": {
+    "mtime": 1777901180.8376749,
+    "hash": "fe78d8e91e94c73048a418310b98cb83"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/tests/test_zhipu_llm.py": {
+    "mtime": 1777901180.8496747,
+    "hash": "8cf7d34d26aee14a603a7be34e5dbd7e"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/tests/test_auth.py": {
+    "mtime": 1777901180.8374016,
+    "hash": "f1c84c2fa2745a80fbe1791a4ac15008"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/tests/test_workspace_sanitization.py": {
+    "mtime": 1777901180.8486748,
+    "hash": "0998b274b353be3359ec78d910b50818"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/tests/__init__.py": {
+    "mtime": 1777901180.8374016,
+    "hash": "7292dd4be964a5e7df42c8075ddac986"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/tests/test_postgres_halfvec.py": {
+    "mtime": 1777901180.8466747,
+    "hash": "011409efc94ae53d516bf5e66bcba8eb"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/tests/test_remove_think_tags.py": {
+    "mtime": 1777901180.8476746,
+    "hash": "836ea7b8bf0f0f67a19f345364a5057f"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/tests/test_extract_entities.py": {
+    "mtime": 1777901180.8376749,
+    "hash": "e3a6e65da3f3ed4b7682e5d57dd25b3f"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/tests/test_qdrant_migration.py": {
+    "mtime": 1777901180.8476746,
+    "hash": "00672325f60b10504759692ff8cd1b47"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/tests/test_postgres_age_quote_fix.py": {
+    "mtime": 1777901180.8466747,
+    "hash": "d95798ca3c0ad0f917506165d05863d4"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/tests/test_milvus_index_creation.py": {
+    "mtime": 1777901180.8396747,
+    "hash": "56ac67baefc63bf210151691decaa2df"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/tests/test_write_json_optimization.py": {
+    "mtime": 1777901180.8496747,
+    "hash": "318095f4c29323943c5a0ea44d6f79c8"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/tests/conftest.py": {
+    "mtime": 1777901180.8374016,
+    "hash": "6236bf8004c8fce1b04faba9e3620a47"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/tests/test_postgres_index_name.py": {
+    "mtime": 1777901180.8466747,
+    "hash": "9c1954562a38964bb61804ba7ebc96a4"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/tests/test_overlap_validation.py": {
+    "mtime": 1777901180.8466747,
+    "hash": "382d676b7aa71ff7b1f349cbaa545b0c"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/tests/test_chunking.py": {
+    "mtime": 1777901180.8374016,
+    "hash": "bb8f537307c835009b5f12710da03363"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/tests/test_milvus_index_config.py": {
+    "mtime": 1777901180.8396747,
+    "hash": "84c557f8e7216c5a986eb2e1aab2a99b"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/tests/test_unified_lock_safety.py": {
+    "mtime": 1777901180.8486748,
+    "hash": "037531d94f4aca4e52160ded939258cc"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/tests/test_interactive_setup/test_collect.py": {
+    "mtime": 1777901180.8390968,
+    "hash": "817e0704b605430f1f6892fbde58029d"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/tests/test_interactive_setup/test_generate.py": {
+    "mtime": 1777901180.8390968,
+    "hash": "f658dc8ff002c094ea4f8a5ce377db39"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/tests/test_interactive_setup/test_validate.py": {
+    "mtime": 1777901180.8390968,
+    "hash": "8db070f528a84a49a446aff1724b7d18"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/tests/test_interactive_setup/__init__.py": {
+    "mtime": 1777901180.8376749,
+    "hash": "9d2e783f12f8ded50f252babed2faaa2"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/tests/test_interactive_setup/_helpers.py": {
+    "mtime": 1777901180.8390968,
+    "hash": "f03e1e8bcde1c37217e154e8df33fb04"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/tests/test_interactive_setup/test_env.py": {
+    "mtime": 1777901180.8390968,
+    "hash": "10d1e6b20b0a76a8c66655b5d2184d03"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/tests/test_interactive_setup/test_misc.py": {
+    "mtime": 1777901180.8390968,
+    "hash": "e6488dfbd89e3ceca227075a922f5723"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/eslint.config.js": {
+    "mtime": 1777901180.824675,
+    "hash": "e2f4d743b626a378295d517fb0b0ee8b"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/tailwind.config.js": {
+    "mtime": 1777901180.834694,
+    "hash": "05bfa301729a77d1563b3cb166565fce"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/vite.config.ts": {
+    "mtime": 1777901180.834694,
+    "hash": "ea0e181caf8e15e45775ad6e3bacbe9a"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/i18n.ts": {
+    "mtime": 1777901180.830675,
+    "hash": "e0c5f361b312381f7df50f78a74bbcbb"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/main.tsx": {
+    "mtime": 1777901180.832675,
+    "hash": "b2b30000173978491a31da1f9b06509b"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/vite-env.d.ts": {
+    "mtime": 1777901180.834694,
+    "hash": "262fba92da5e94597414d2262df42834"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/App.tsx": {
+    "mtime": 1777901180.8257778,
+    "hash": "c38ea04db49d0ae2a5616be4d9bb9610"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/AppRouter.tsx": {
+    "mtime": 1777901180.826024,
+    "hash": "c7a6c5bbf7c6939a777d8b3b8c54e362"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/types/katex.d.ts": {
+    "mtime": 1777901180.8343544,
+    "hash": "c464df26c95c346faad4fec36f834622"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/lib/constants.ts": {
+    "mtime": 1777901180.830675,
+    "hash": "f82ce56c64b6f18cc63a6acbb2ac17d8"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/lib/extensions.ts": {
+    "mtime": 1777901180.8318515,
+    "hash": "8c93f8c4bf029f1436c9b3639619f533"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/lib/utils.ts": {
+    "mtime": 1777901180.8318515,
+    "hash": "6ab689766c4d2910ca302c69bca6a93b"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/components/ThemeProvider.tsx": {
+    "mtime": 1777901180.8264565,
+    "hash": "1cfa0ce3a1ab07c06787b8bfb588faac"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/components/LanguageToggle.tsx": {
+    "mtime": 1777901180.8264565,
+    "hash": "85c30a72137f63f1a7bbb6c7af53cad8"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/components/ThemeToggle.tsx": {
+    "mtime": 1777901180.8264565,
+    "hash": "1afb71a7244f84b5fd447cdc1c543bc0"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/components/AppSettings.tsx": {
+    "mtime": 1777901180.8264565,
+    "hash": "4498f6e7bc7e6f54a73101a5c122a7ca"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/components/ApiKeyAlert.tsx": {
+    "mtime": 1777901180.8261654,
+    "hash": "da56d1da60ac7afd503571cedba7a99c"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/components/Root.tsx": {
+    "mtime": 1777901180.8264565,
+    "hash": "ab1bb421731d56952ba09c33ea23952d"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/components/documents/ClearDocumentsDialog.tsx": {
+    "mtime": 1777901180.8264565,
+    "hash": "f402fce712235370862286e2b07b2321"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/components/documents/UploadDocumentsDialog.tsx": {
+    "mtime": 1777901180.826767,
+    "hash": "9d02a7e8fc91de62430751a9bd91e36d"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/components/documents/PipelineStatusDialog.tsx": {
+    "mtime": 1777901180.826767,
+    "hash": "b9928f550ba4fb093f36330f404f54ef"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/components/documents/DeleteDocumentsDialog.tsx": {
+    "mtime": 1777901180.826767,
+    "hash": "8aa1c38fe05a1d987bddba15b9361f4d"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/components/retrieval/ChatMessage.tsx": {
+    "mtime": 1777901180.8276749,
+    "hash": "f2687d299e6427392e9d97c5017d27ea"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/components/retrieval/QuerySettings.tsx": {
+    "mtime": 1777901180.828353,
+    "hash": "153b3b785fb1ffff318a806bcc160dfd"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/components/icons/GithubIcon.tsx": {
+    "mtime": 1777901180.8271317,
+    "hash": "71cdd30ec9eadbbed4ce6c7e8b685dc2"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/components/ui/Tabs.tsx": {
+    "mtime": 1777901180.8286982,
+    "hash": "0ec5dca84612389a5d9ad7342ff66dd6"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/components/ui/Text.tsx": {
+    "mtime": 1777901180.8286982,
+    "hash": "caa2da26ea89d6e4096c2734b4bfe2b6"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/components/ui/Checkbox.tsx": {
+    "mtime": 1777901180.8286982,
+    "hash": "b7c56bac2f96c4811cbbf883614adf9a"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/components/ui/Badge.tsx": {
+    "mtime": 1777901180.8286982,
+    "hash": "31c59a4a2fdedb42a017e3fa5411f2aa"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/components/ui/PaginationControls.tsx": {
+    "mtime": 1777901180.8286982,
+    "hash": "057cc96b947b9e7692a851bbdcd89202"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/components/ui/UserPromptInputWithHistory.tsx": {
+    "mtime": 1777901180.8286982,
+    "hash": "2cf31a893aba7fad4a0772acf09f5b0b"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/components/ui/Tooltip.tsx": {
+    "mtime": 1777901180.8286982,
+    "hash": "738bdb9ff61f75165279a179e85f9f7c"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/components/ui/EmptyCard.tsx": {
+    "mtime": 1777901180.8286982,
+    "hash": "b24fd4ffce868a15c0f8203b4490a432"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/components/ui/Progress.tsx": {
+    "mtime": 1777901180.8286982,
+    "hash": "63c55f66065ac896a47a5d0c9a1c192a"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/components/ui/Dialog.tsx": {
+    "mtime": 1777901180.8286982,
+    "hash": "86be955d14d8ce568af9c74b155e139b"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/components/ui/Popover.tsx": {
+    "mtime": 1777901180.8286982,
+    "hash": "26876c1d2d66e8624d4bad0f0cc4406a"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/components/ui/Textarea.tsx": {
+    "mtime": 1777901180.8286982,
+    "hash": "4f35f0c9a965f1273286feec99975a13"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/components/ui/DataTable.tsx": {
+    "mtime": 1777901180.8286982,
+    "hash": "5c69e7c974a20b7ea860e874782821ef"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/components/ui/Separator.tsx": {
+    "mtime": 1777901180.8286982,
+    "hash": "5e7de6cb23d5aa21957e614e37195c69"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/components/ui/Select.tsx": {
+    "mtime": 1777901180.8286982,
+    "hash": "f52ff9d7d7c544b46fe9705e79d27c54"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/components/ui/Card.tsx": {
+    "mtime": 1777901180.8286982,
+    "hash": "172b39114c782f73459b7d7b24dc0256"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/components/ui/AsyncSearch.tsx": {
+    "mtime": 1777901180.8286982,
+    "hash": "44fb7021ec6b628a19ac1afb38f2d62f"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/components/ui/TabContent.tsx": {
+    "mtime": 1777901180.8286982,
+    "hash": "eba32c0d1d04cc8de3342de9094d2564"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/components/ui/FileUploader.tsx": {
+    "mtime": 1777901180.8286982,
+    "hash": "d5e87bc9b0de31151c2a33effc53d9b4"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/components/ui/AlertDialog.tsx": {
+    "mtime": 1777901180.8286982,
+    "hash": "95652fcfb33e24891830d0c228058554"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/components/ui/NumberInput.tsx": {
+    "mtime": 1777901180.8286982,
+    "hash": "66e35642a14f875ee45239d738fdc8db"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/components/ui/Alert.tsx": {
+    "mtime": 1777901180.828532,
+    "hash": "4ebe8c68948aba114843a5259a06ba23"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/components/ui/Input.tsx": {
+    "mtime": 1777901180.8286982,
+    "hash": "7ada58fb5fa76540e21513852c11146a"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/components/ui/Table.tsx": {
+    "mtime": 1777901180.8286982,
+    "hash": "025299b96f09988264a7c7ca1ba3f988"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/components/ui/ScrollArea.tsx": {
+    "mtime": 1777901180.8286982,
+    "hash": "b79f3aad344f5f46bb5f04b973077ca2"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/components/ui/Button.tsx": {
+    "mtime": 1777901180.8286982,
+    "hash": "b066ebad9631f0f4eb19a5a14002cd68"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/components/ui/Command.tsx": {
+    "mtime": 1777901180.8286982,
+    "hash": "299be773d0e8966e5d8a65eb3551d234"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/components/ui/AsyncSelect.tsx": {
+    "mtime": 1777901180.8286982,
+    "hash": "6a2faaeab282572590a4f3bcc1bf5270"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/components/graph/Legend.tsx": {
+    "mtime": 1777901180.8271317,
+    "hash": "4970c8bffd3f1892c9c3241ecc3bf18d"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/components/graph/MergeDialog.tsx": {
+    "mtime": 1777901180.8271317,
+    "hash": "8aa25f28675a98c244e965c5ddc0c427"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/components/graph/SettingsDisplay.tsx": {
+    "mtime": 1777901180.8271317,
+    "hash": "562d8e8c749db067de1fe74498a48302"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/components/graph/EditablePropertyRow.tsx": {
+    "mtime": 1777901180.826767,
+    "hash": "277340b47e5d47d08c9e7901f68d5fc8"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/components/graph/FocusOnNode.tsx": {
+    "mtime": 1777901180.8271317,
+    "hash": "5e16483e4f1d7ed877ae12f1949897c3"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/components/graph/LegendButton.tsx": {
+    "mtime": 1777901180.8271317,
+    "hash": "d25d7e9a415d3165127fc53448dd8bf0"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/components/graph/PropertyEditDialog.tsx": {
+    "mtime": 1777901180.8271317,
+    "hash": "89e815bf61699c11508c469d4e3623c4"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/components/graph/ZoomControl.tsx": {
+    "mtime": 1777901180.8271317,
+    "hash": "21e14b3a6e4e9a949a43f06e5b7ac0b3"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/components/graph/LayoutsControl.tsx": {
+    "mtime": 1777901180.8271317,
+    "hash": "49a7297c3e794d1324363fe6c5e3ee4c"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/components/graph/GraphSearch.tsx": {
+    "mtime": 1777901180.8271317,
+    "hash": "28315e5c4a18aeab7d4fcd3ff6965cf2"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/components/graph/Settings.tsx": {
+    "mtime": 1777901180.8271317,
+    "hash": "eb776689da13db18a511765324671ffb"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/components/graph/GraphControl.tsx": {
+    "mtime": 1777901180.8271317,
+    "hash": "600cf6cdeb88275d45a321b7e1536d0b"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/components/graph/PropertyRowComponents.tsx": {
+    "mtime": 1777901180.8271317,
+    "hash": "5938f1f62fad9c4637b33a9392a1d819"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/components/graph/GraphLabels.tsx": {
+    "mtime": 1777901180.8271317,
+    "hash": "6f61e05f8e7f930bd9cf65944c5b2287"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/components/graph/FullScreenControl.tsx": {
+    "mtime": 1777901180.8271317,
+    "hash": "11e93e776c5918be00c6eea16fcafe49"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/components/graph/PropertiesView.tsx": {
+    "mtime": 1777901180.8271317,
+    "hash": "cb5e2dba0067df4d32bf1a304e902088"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/components/status/StatusCard.tsx": {
+    "mtime": 1777901180.828353,
+    "hash": "f861920df5e70d4966ce98c4f9bea799"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/components/status/StatusIndicator.tsx": {
+    "mtime": 1777901180.828532,
+    "hash": "d20dd383d903b7a082c687b8f096ef0c"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/components/status/StatusDialog.tsx": {
+    "mtime": 1777901180.828532,
+    "hash": "4bd21097c506d32a28562688c20050bd"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/utils/clipboard.ts": {
+    "mtime": 1777901180.834694,
+    "hash": "2f835c0950f175c30498cb98c7b1c231"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/utils/remarkFootnotes.ts": {
+    "mtime": 1777901180.834694,
+    "hash": "64e1b79219f2df7db372f2ab508ca3bc"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/utils/SearchHistoryManager.ts": {
+    "mtime": 1777901180.8343544,
+    "hash": "ff9e78ebb41aab87ddaa96478543f730"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/utils/graphColor.ts": {
+    "mtime": 1777901180.834694,
+    "hash": "1270ea60becd9085798c315475df9059"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/contexts/types.ts": {
+    "mtime": 1777901180.830184,
+    "hash": "506ac479a694f4fa2a23217d5224be28"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/contexts/TabVisibilityProvider.tsx": {
+    "mtime": 1777901180.8286982,
+    "hash": "e022b3176477f6482d82744a4b32cb0d"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/contexts/useTabVisibility.ts": {
+    "mtime": 1777901180.830184,
+    "hash": "699d183c137a062f7eb6c3288e493ff9"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/contexts/context.ts": {
+    "mtime": 1777901180.830184,
+    "hash": "816c691b577cca3e088c0ac88bcebef4"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/hooks/useDebounce.tsx": {
+    "mtime": 1777901180.8303885,
+    "hash": "90772698f52efbe00fc79beafa8324bb"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/hooks/useLightragGraph.tsx": {
+    "mtime": 1777901180.830675,
+    "hash": "44535e611a057a5993b3ed32d5a94068"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/hooks/useRandomGraph.tsx": {
+    "mtime": 1777901180.830675,
+    "hash": "a98bfa5077c547e9acb7cfb63d74dd29"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/hooks/useTheme.tsx": {
+    "mtime": 1777901180.830675,
+    "hash": "a872905a797b6a163df79ea683a9be46"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/features/SiteHeader.tsx": {
+    "mtime": 1777901180.8303885,
+    "hash": "199373a3640e3a233c197b7e3fcf2b36"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/features/ApiSite.tsx": {
+    "mtime": 1777901180.830184,
+    "hash": "cd3cd16e55d7b9d3c81a8ab3b028df31"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/features/LoginPage.tsx": {
+    "mtime": 1777901180.8303885,
+    "hash": "0b1546fa1a3424908db2646d364e33df"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/features/GraphViewer.tsx": {
+    "mtime": 1777901180.8303885,
+    "hash": "6bd532ca42edf85421a777e34e97d25b"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/features/RetrievalTesting.tsx": {
+    "mtime": 1777901180.8303885,
+    "hash": "e4d0098161f364bdb76b86d12b4fc1cf"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/features/DocumentManager.tsx": {
+    "mtime": 1777901180.8303885,
+    "hash": "49f9a2f9d8ce177026c9c3b27c6c3f11"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/stores/graph.ts": {
+    "mtime": 1777901180.833675,
+    "hash": "ccae4e7b748f68f65a08858a5ad457c8"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/stores/state.ts": {
+    "mtime": 1777901180.8343544,
+    "hash": "1db89cf42325a3f9998119291199b81d"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/stores/settings.ts": {
+    "mtime": 1777901180.8343544,
+    "hash": "e20eae2b00d57eb9c1c492f0361cebee"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/api/lightrag.test.ts": {
+    "mtime": 1777901180.826024,
+    "hash": "17a8e7d035e9f9f41dfe28bb502ad0a3"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/api/lightrag.ts": {
+    "mtime": 1777901180.8261654,
+    "hash": "e407e6c32a15c6ac7a3c9b51fa7963bc"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/src/services/navigation.ts": {
+    "mtime": 1777901180.832675,
+    "hash": "c8fc819fb42b3cd41d2fc05ff34617db"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/scripts/release/set_version.py": {
+    "mtime": 1777901180.8356233,
+    "hash": "d4fe74b36fb6600f579170def23af663"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/exceptions.py": {
+    "mtime": 1777901180.7895143,
+    "hash": "539cf80b67291258d88f9ef566653b1d"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/utils.py": {
+    "mtime": 1777901180.822675,
+    "hash": "400a947ca35e856bed4f64d95998fcb0"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/operate.py": {
+    "mtime": 1777901180.7986753,
+    "hash": "e131686e772a9f2da88072de1f60d4f3"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/utils_graph.py": {
+    "mtime": 1777901180.823675,
+    "hash": "504c9a4f9dff105a9173b7ad00b94fdc"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/constants.py": {
+    "mtime": 1777901180.7876754,
+    "hash": "f5a816ea3cca635313ffb88740c73165"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/namespace.py": {
+    "mtime": 1777901180.7976754,
+    "hash": "c6051674bd61795a2e66333a74cf576e"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/base.py": {
+    "mtime": 1777901180.7876754,
+    "hash": "04b3825fd6b309f209192d0cdba87e8a"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/lightrag.py": {
+    "mtime": 1777901180.7956753,
+    "hash": "010abb86f79286ff61fc544c1fef3bf4"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/_version.py": {
+    "mtime": 1777901180.7736757,
+    "hash": "a6bad1f7e207401e1b7481e65a3432ed"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/prompt.py": {
+    "mtime": 1777901180.7986753,
+    "hash": "d514dbbb4c8782a2790884ebe993ccef"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/__init__.py": {
+    "mtime": 1777901180.773622,
+    "hash": "08579ca3137ba4ede87b8d5d0e70e787"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/types.py": {
+    "mtime": 1777901180.822675,
+    "hash": "2a7addeb5fdeaa678421778a3aa792d9"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/rerank.py": {
+    "mtime": 1777901180.7996752,
+    "hash": "d699420c72c21e2ea3ef42c49dfd85ef"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/llm/nvidia_openai.py": {
+    "mtime": 1777901180.7966754,
+    "hash": "5ff0b04b7e791dd80923e21746ee674a"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/llm/llama_index_impl.py": {
+    "mtime": 1777901180.7966754,
+    "hash": "825d483e0c4cc05ecdbfc0c4159a4c3c"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/llm/anthropic.py": {
+    "mtime": 1777901180.7966166,
+    "hash": "ab8040a923dc8fbb400161a765d914de"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/llm/azure_openai.py": {
+    "mtime": 1777901180.7966166,
+    "hash": "4326ce387177fed019d7e8d252a0ed89"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/llm/bedrock.py": {
+    "mtime": 1777901180.7966166,
+    "hash": "072d48727fa347c432c1789b3e5d2b29"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/llm/binding_options.py": {
+    "mtime": 1777901180.7966166,
+    "hash": "1aca6fd4c6b7ce56ea8be2ec981687b1"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/llm/lollms.py": {
+    "mtime": 1777901180.7966754,
+    "hash": "e598ad3e79552729ff8ccbbb27f3bc8e"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/llm/voyageai.py": {
+    "mtime": 1777901180.7976754,
+    "hash": "0bf3ee51ed656f1f5a849c3949ec51cd"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/llm/jina.py": {
+    "mtime": 1777901180.7966754,
+    "hash": "d956486327a8e39a91c622858fab167c"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/llm/lmdeploy.py": {
+    "mtime": 1777901180.7966754,
+    "hash": "49b30e690240002fe38adb29385a8375"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/llm/gemini.py": {
+    "mtime": 1777901180.7966754,
+    "hash": "f27e914f981417065fbdcf7265981e3e"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/llm/__init__.py": {
+    "mtime": 1777901180.7956753,
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/llm/openai.py": {
+    "mtime": 1777901180.7976754,
+    "hash": "fb8ca922e98c28aab31dcabb46afa62c"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/llm/hf.py": {
+    "mtime": 1777901180.7966754,
+    "hash": "5ac1e43bf48457c66749b50bcb688a49"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/llm/ollama.py": {
+    "mtime": 1777901180.7966754,
+    "hash": "db53db99c4bcfe727f636bfe5824ed07"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/llm/zhipu.py": {
+    "mtime": 1777901180.7976754,
+    "hash": "5c2aa7066f7d62c89885199ec38640c3"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/llm/deprecated/siliconcloud.py": {
+    "mtime": 1777901180.7966754,
+    "hash": "aead87d41d66590a5cae84505459f57b"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/kg/postgres_impl.py": {
+    "mtime": 1777901180.7936754,
+    "hash": "481e9971390b23c1ce3392ca8f055ecb"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/kg/opensearch_impl.py": {
+    "mtime": 1777901180.7926755,
+    "hash": "2ed5dd92ae6d544b6530ef205117af00"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/kg/neo4j_impl.py": {
+    "mtime": 1777901180.7916753,
+    "hash": "222797b23a00caeb82b537f0e205bab1"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/kg/faiss_impl.py": {
+    "mtime": 1777901180.7900095,
+    "hash": "c6498335d71bba137ed17ac5260a064b"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/kg/milvus_impl.py": {
+    "mtime": 1777901180.7906754,
+    "hash": "bd8cc6ad36f08242b104f530a3ba004d"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/kg/json_kv_impl.py": {
+    "mtime": 1777901180.7900095,
+    "hash": "9556d24f54ccbf010afdca300103f9e0"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/kg/networkx_impl.py": {
+    "mtime": 1777901180.7916753,
+    "hash": "0935c8becea87c1df8fa2492ea8c4b45"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/kg/json_doc_status_impl.py": {
+    "mtime": 1777901180.7900095,
+    "hash": "0d20a0a535ef0a7560771df891d77c00"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/kg/__init__.py": {
+    "mtime": 1777901180.7895143,
+    "hash": "61f2952adec799261d98f3b081d38373"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/kg/qdrant_impl.py": {
+    "mtime": 1777901180.7936754,
+    "hash": "89350f8fecd0d5bd1265a4d724d5a24d"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/kg/memgraph_impl.py": {
+    "mtime": 1777901180.7900095,
+    "hash": "ef513ec1c42de02f7e9bdf6774bdedf6"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/kg/nano_vector_db_impl.py": {
+    "mtime": 1777901180.7906754,
+    "hash": "726a623b72c8f22b0c4b6441e05c0204"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/kg/mongo_impl.py": {
+    "mtime": 1777901180.7906754,
+    "hash": "55c7ee5772ccc2868dde186facc4910b"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/kg/shared_storage.py": {
+    "mtime": 1777901180.7946754,
+    "hash": "23cefe6da5a8a3b4c3d41c07df5fb7a0"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/kg/redis_impl.py": {
+    "mtime": 1777901180.7936754,
+    "hash": "edaca7fa6e274645f693740cb7bd0a51"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/kg/deprecated/chroma_impl.py": {
+    "mtime": 1777901180.7900095,
+    "hash": "d49cc926956f4f8fa12833c1df15d454"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/evaluation/eval_rag_quality.py": {
+    "mtime": 1777901180.7890067,
+    "hash": "edd3793a49e6ab4a1f52bd8f7f70614b"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/evaluation/__init__.py": {
+    "mtime": 1777901180.7890067,
+    "hash": "c146a1e16dc0aad945f6f77006cfa5f4"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/api/config.py": {
+    "mtime": 1777901180.7743802,
+    "hash": "73f5387a56e1ad5d9a74064171bad52e"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/api/lightrag_server.py": {
+    "mtime": 1777901180.7743802,
+    "hash": "6d8feda79dd2a5f07ddb066423c5bd89"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/api/utils_api.py": {
+    "mtime": 1777901180.7876754,
+    "hash": "f3efe6556a167e14a729bc08d91b7133"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/api/runtime_validation.py": {
+    "mtime": 1777901180.7756755,
+    "hash": "20913b185462c6430ff4faf4b903ba3b"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/api/gunicorn_config.py": {
+    "mtime": 1777901180.7743802,
+    "hash": "aa8a0769f4eb610f3cd5d73d8dea96cf"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/api/auth.py": {
+    "mtime": 1777901180.7743802,
+    "hash": "9ee06c06408f83b1c3e1bdd5b4e466d4"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/api/__init__.py": {
+    "mtime": 1777901180.7743802,
+    "hash": "06d0046db2d0d3b8d1f3fefdc6ac64c0"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/api/run_with_gunicorn.py": {
+    "mtime": 1777901180.7756755,
+    "hash": "4437b3112f3f02f400c86a571b6440a2"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/api/static/swagger-ui/swagger-ui-bundle.js": {
+    "mtime": 1777901180.7866755,
+    "hash": "c1b7127dd9b4415817ae5f60a3c05527"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/api/routers/query_routes.py": {
+    "mtime": 1777901180.7756755,
+    "hash": "17770052f261ffff543bbe75af92b457"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/api/routers/graph_routes.py": {
+    "mtime": 1777901180.7756755,
+    "hash": "4f2e0fdf7110f38d44b0292ca5646100"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/api/routers/document_routes.py": {
+    "mtime": 1777901180.775409,
+    "hash": "630e703815e7b9840c9bfc21fb893523"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/api/routers/ollama_api.py": {
+    "mtime": 1777901180.7756755,
+    "hash": "f66a3d15f3720bb9788a76ab2e8d27d6"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/api/routers/__init__.py": {
+    "mtime": 1777901180.7746756,
+    "hash": "5998a1ad144d45dff06ef40ce0c570df"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/tools/check_initialization.py": {
+    "mtime": 1777901180.8005164,
+    "hash": "baa9204008d357bc8d5c2d7956b25689"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/tools/prepare_qdrant_legacy_data.py": {
+    "mtime": 1777901180.822675,
+    "hash": "5823da88c526a4e5f2162a9aa6a4ae16"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/tools/clean_llm_query_cache.py": {
+    "mtime": 1777901180.8005164,
+    "hash": "7a871e22a990ee305f95012822a28016"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/tools/migrate_llm_cache.py": {
+    "mtime": 1777901180.822675,
+    "hash": "8624773ba627c9183dcedb5cddc04b15"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/tools/__init__.py": {
+    "mtime": 1777901180.8005164,
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/tools/download_cache.py": {
+    "mtime": 1777901180.8006754,
+    "hash": "e666594029abdc88d623394a8aa7edef"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/tools/lightrag_visualizer/__init__.py": {
+    "mtime": 1777901180.801495,
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/tools/lightrag_visualizer/graph_visualizer.py": {
+    "mtime": 1777901180.821675,
+    "hash": "9344b6d69f09f1c4a662218137603ccc"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/reproduce/Step_2.py": {
+    "mtime": 1777901180.8351977,
+    "hash": "a7b7cf9341069473a49c6e29aef8d774"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/reproduce/Step_1_openai_compatible.py": {
+    "mtime": 1777901180.8351977,
+    "hash": "450059b97dce4070d060fb491cc34bcf"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/reproduce/batch_eval.py": {
+    "mtime": 1777901180.8351977,
+    "hash": "28bbb4e052d2d67fe4004c68e57c00a5"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/reproduce/Step_3_openai_compatible.py": {
+    "mtime": 1777901180.8351977,
+    "hash": "a524875b87e1324fd4b8d82e3c65f32b"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/reproduce/Step_3.py": {
+    "mtime": 1777901180.8351977,
+    "hash": "0e0112097a9744d3ba3bbde27384b3ac"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/reproduce/Step_1.py": {
+    "mtime": 1777901180.8351977,
+    "hash": "89ed9bdaf1914834c01ec129760ead66"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/reproduce/Step_0.py": {
+    "mtime": 1777901180.834694,
+    "hash": "af0a59634275bbfda839e8716527cbf4"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/examples/lightrag_openai_compatible_demo.py": {
+    "mtime": 1777901180.7688763,
+    "hash": "58b999cc0c4e971421cd67c39dca2870"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/examples/modalprocessors_example.py": {
+    "mtime": 1777901180.7696757,
+    "hash": "cc65b383e53ac35fa7ebc6d69295e58b"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/examples/lightrag_ollama_demo.py": {
+    "mtime": 1777901180.7688763,
+    "hash": "40ac70ae6659f3f902e6237cb18b39e4"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/examples/lightrag_gemini_postgres_demo.py": {
+    "mtime": 1777901180.7688763,
+    "hash": "49f95a57b7d02f37bf5234fd4bf6fcf5"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/examples/lightrag_openai_demo.py": {
+    "mtime": 1777901180.7688763,
+    "hash": "9d3881a07999c66e56a10fd1bb38622b"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/examples/lightrag_gemini_workspace_demo.py": {
+    "mtime": 1777901180.7688763,
+    "hash": "7185e6cb3f7e2ee798778b41711fa7cc"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/examples/generate_query.py": {
+    "mtime": 1777901180.7676756,
+    "hash": "b67635661993c9b8f4f86d8396876ee8"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/examples/opensearch_storage_demo.py": {
+    "mtime": 1777901180.7696757,
+    "hash": "c0655b19f92cd44d1310368c1d223e2a"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/examples/lightrag_gemini_demo.py": {
+    "mtime": 1777901180.7688763,
+    "hash": "f062e3e9aaf815c774422e1b84973bf1"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/examples/graph_visual_with_html.py": {
+    "mtime": 1777901180.7688763,
+    "hash": "af771560fd5ed935c6b14e4137cd37c3"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/examples/rerank_example.py": {
+    "mtime": 1777901180.7696757,
+    "hash": "cba4836c4666a8ad40143775857a2f48"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/examples/lightrag_azure_openai_demo.py": {
+    "mtime": 1777901180.7688763,
+    "hash": "651eb301b38104357f6d3dc4c3f1d3b2"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/examples/milvus_kwargs_configuration_demo.py": {
+    "mtime": 1777901180.7696757,
+    "hash": "6ded5c8279b9693948f3f5341c64be25"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/examples/lightrag_openai_opensearch_graph_demo.py": {
+    "mtime": 1777901180.7688763,
+    "hash": "6d8352face1468f14511d76650e2c16e"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/examples/raganything_example.py": {
+    "mtime": 1777901180.7696757,
+    "hash": "c1e738a21db4e09439a08e2fd6fbfa0c"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/examples/lightrag_ag2_multiagent_demo.py": {
+    "mtime": 1777901180.7688763,
+    "hash": "2e7912cef2056411328a48e90290c569"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/examples/lightrag_vllm_demo.py": {
+    "mtime": 1777901180.7688763,
+    "hash": "2f083e266e069fd22af8068f48860360"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/examples/lightrag_openai_mongodb_graph_demo.py": {
+    "mtime": 1777901180.7688763,
+    "hash": "65827ce514cda7e1c4ca01b86c083865"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/examples/insert_custom_kg.py": {
+    "mtime": 1777901180.7688763,
+    "hash": "cef1addf1afa7400fddc75ead4ba95a0"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/examples/graph_visual_with_neo4j.py": {
+    "mtime": 1777901180.7688763,
+    "hash": "5c3736a052aca206d65d7e3cae3f33e7"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/examples/graph_visual_with_opensearch.py": {
+    "mtime": 1777901180.7688763,
+    "hash": "4fd6cfebde1038e92409324f0d2ccaea"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/examples/unofficial-sample/lightrag_hf_demo.py": {
+    "mtime": 1777901180.7707772,
+    "hash": "8a4117091ae20ff5dae84a6d83034376"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/examples/unofficial-sample/lightrag_nvidia_demo.py": {
+    "mtime": 1777901180.7707772,
+    "hash": "7eb04a4b707accda2dc034ac2f29f0d9"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/examples/unofficial-sample/lightrag_openai_neo4j_milvus_redis_demo.py": {
+    "mtime": 1777901180.7707772,
+    "hash": "1867ea827717aef7a160b0f7f7e273cd"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/examples/unofficial-sample/lightrag_embedding_prefixes.py": {
+    "mtime": 1777901180.7707772,
+    "hash": "9196b42abf6f7d1d09b5b82d6f1eba68"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/examples/unofficial-sample/lightrag_lmdeploy_demo.py": {
+    "mtime": 1777901180.7707772,
+    "hash": "d8c47d03dd64bccd27c8aa026913a53e"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/examples/unofficial-sample/lightrag_llamaindex_litellm_demo.py": {
+    "mtime": 1777901180.7707772,
+    "hash": "975b1b3f03534c7a75008d4d8d6c932e"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/examples/unofficial-sample/lightrag_cloudflare_demo.py": {
+    "mtime": 1777901180.7707772,
+    "hash": "ea210a404aaf89f3961d2d638e093109"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/examples/unofficial-sample/lightrag_llamaindex_direct_demo.py": {
+    "mtime": 1777901180.7707772,
+    "hash": "dd75f1aa9419d01fb5cacdfec7ccdc52"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/examples/unofficial-sample/lightrag_bedrock_demo.py": {
+    "mtime": 1777901180.7707772,
+    "hash": "a8affd7a69ff102c30b664a59a912e8d"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/examples/unofficial-sample/lightrag_llamaindex_litellm_opik_demo.py": {
+    "mtime": 1777901180.7707772,
+    "hash": "52cf3beb408c7913743a7404bfee504a"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/examples/unofficial-sample/copy_llm_cache_to_another_storage.py": {
+    "mtime": 1777901180.7696757,
+    "hash": "37fd3f93853e94c8c2b0ce184fae6d61"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/docker-compose.yml": {
+    "mtime": 1777901180.753676,
+    "hash": "b01266dff06afbe950d84ccd3228abfd"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/SECURITY.md": {
+    "mtime": 1777901180.747676,
+    "hash": "eb3eea8e8ba3aeeaeeb6ddbcbae2ab23"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/CLAUDE.md": {
+    "mtime": 1777901180.7397637,
+    "hash": "24b0fb93ce1116e60ae9ad138479b9a3"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/requirements-offline-storage.txt": {
+    "mtime": 1777901180.8351977,
+    "hash": "3430023d08558dc24e18caaacdace7a6"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/AGENTS.md": {
+    "mtime": 1777901180.7397637,
+    "hash": "d38d0e7868d84ded14081c99d70ad35b"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/README.md": {
+    "mtime": 1777901180.747676,
+    "hash": "572209e9b60a7bf4b1f2f852819992b9"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/requirements-offline-llm.txt": {
+    "mtime": 1777901180.8351977,
+    "hash": "6e7483517d82eefc0c8b258e5edcedce"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/docker-compose-full.yml": {
+    "mtime": 1777901180.752676,
+    "hash": "33aacda8ef33941f53e0964b405a726c"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/docker-compose.podman.yml": {
+    "mtime": 1777901180.752676,
+    "hash": "5155d45a400fec401541f7088ecdf604"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/requirements-offline.txt": {
+    "mtime": 1777901180.8351977,
+    "hash": "7d03acae712623633e893a96f40a1470"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/README-zh.md": {
+    "mtime": 1777901180.7397637,
+    "hash": "8290452c5fce665ccbc7826f5c20e024"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/tests/README_WORKSPACE_ISOLATION_TESTS.md": {
+    "mtime": 1777901180.836703,
+    "hash": "c8a916e262dbe17233edae8568d8f887"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/k8s-deploy/README.md": {
+    "mtime": 1777901180.771754,
+    "hash": "e5405fb3c7f62b9ef933ea3323a156ef"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/k8s-deploy/README-zh.md": {
+    "mtime": 1777901180.7707772,
+    "hash": "80d8533a4266af74d40c605b7c4579e6"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/k8s-deploy/databases/README.md": {
+    "mtime": 1777901180.771967,
+    "hash": "f1fe81af6975fdd323043b6ff5d1df9d"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/k8s-deploy/databases/neo4j/values.yaml": {
+    "mtime": 1777901180.771967,
+    "hash": "c574d3866095741535b7160d3fe5beaa"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/k8s-deploy/databases/elasticsearch/values.yaml": {
+    "mtime": 1777901180.771967,
+    "hash": "6cc4e49e9c1279a056adf93917c04fd7"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/k8s-deploy/databases/mongodb/values.yaml": {
+    "mtime": 1777901180.771967,
+    "hash": "b73f207feca9c705a77758f0e251fe12"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/k8s-deploy/databases/qdrant/values.yaml": {
+    "mtime": 1777901180.771967,
+    "hash": "957c1e5abe5e732f684f13008563a888"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/k8s-deploy/databases/redis/values.yaml": {
+    "mtime": 1777901180.771967,
+    "hash": "f487a6ffa08d75e562459c24528e076a"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/k8s-deploy/databases/postgresql/values.yaml": {
+    "mtime": 1777901180.771967,
+    "hash": "29f9184e5833a3ed0906bce2d8663b1c"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/k8s-deploy/lightrag/Chart.yaml": {
+    "mtime": 1777901180.7734528,
+    "hash": "56aef196502746e849af135cafab750d"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/k8s-deploy/lightrag/values.yaml": {
+    "mtime": 1777901180.773622,
+    "hash": "1817cb23e28e0715da44f148ae3ebb1e"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/k8s-deploy/lightrag/templates/pvc.yaml": {
+    "mtime": 1777901180.773622,
+    "hash": "8bad7f854bd459ad29ffbf839919eef4"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/k8s-deploy/lightrag/templates/service.yaml": {
+    "mtime": 1777901180.773622,
+    "hash": "07b28fa99b763bc7f309ddca5104b4e2"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/k8s-deploy/lightrag/templates/NOTES.txt": {
+    "mtime": 1777901180.7734528,
+    "hash": "69d39dd2f8c5d7ca52bbdadeba6ef7ba"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/k8s-deploy/lightrag/templates/deployment.yaml": {
+    "mtime": 1777901180.773622,
+    "hash": "a33e223d3a39810964a2c8ec5b676648"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/docs/AsymmetricEmbedding.md": {
+    "mtime": 1777901180.7545574,
+    "hash": "c5f161bac4a3e107500f8d28f8016e10"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/docs/LightRAG-API-Server.md": {
+    "mtime": 1777901180.7666757,
+    "hash": "aab0a5186eb5138b536225ed7188797a"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/docs/ProgramingWithCore.md": {
+    "mtime": 1777901180.7666757,
+    "hash": "3ec66828231e657fd4ccb56deee8f679"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/docs/OfflineDeployment.md": {
+    "mtime": 1777901180.7666757,
+    "hash": "c6221b6c3280387d5bee5ffb7efc0f27"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/docs/InteractiveSetup.md": {
+    "mtime": 1777901180.7545574,
+    "hash": "d489d2f3b92bd9f7a77976530f90106e"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/docs/LightRAG_concurrent_explain.md": {
+    "mtime": 1777901180.7666757,
+    "hash": "f2f2dcb649d6085f233348e7b4d622b7"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/docs/MilvusConfigurationGuide.md": {
+    "mtime": 1777901180.7666757,
+    "hash": "8f434733d6b970682f528e2f50e1f1ad"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/docs/Algorithm.md": {
+    "mtime": 1777901180.7545574,
+    "hash": "2d6ba98d43e956139f57cb2b1e245e55"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/docs/Reproduce.md": {
+    "mtime": 1777901180.7666757,
+    "hash": "1fcab86e894ff3c3459fdc196c71bb5f"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/docs/AdvancedFeatures.md": {
+    "mtime": 1777901180.753676,
+    "hash": "904fc789b9d02123f0fffdbeb1135251"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/docs/LightRAG-API-Server-zh.md": {
+    "mtime": 1777901180.7546759,
+    "hash": "c0c94e1213df6181dcc00e5221179519"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/docs/DockerDeployment.md": {
+    "mtime": 1777901180.7545574,
+    "hash": "8b3536f7f7f236ec00e868c2df442ebd"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/docs/FrontendBuildGuide.md": {
+    "mtime": 1777901180.7545574,
+    "hash": "bdaf2c8be2055c3d56c9e66ec9fc88aa"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/docs/UV_LOCK_GUIDE.md": {
+    "mtime": 1777901180.7676756,
+    "hash": "d058e63abd3839f6f8857e2a5c48784a"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/index.html": {
+    "mtime": 1777901180.824675,
+    "hash": "379c34e72c72510233260e3d6928c730"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/README.md": {
+    "mtime": 1777901180.8243833,
+    "hash": "a86ff9096b972e6ae105b44d0398b1b2"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/scripts/setup/templates/vllm-rerank-gpu.yml": {
+    "mtime": 1777901180.836703,
+    "hash": "482c7c060ff91ce84d0265faefa6770e"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/scripts/setup/templates/neo4j.yml": {
+    "mtime": 1777901180.836703,
+    "hash": "70e9d75caf21308499c8cfe5e55120e5"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/scripts/setup/templates/qdrant-gpu.yml": {
+    "mtime": 1777901180.836703,
+    "hash": "98230245a91ca62665a306ed9b23f259"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/scripts/setup/templates/opensearch.yml": {
+    "mtime": 1777901180.836703,
+    "hash": "b7b246c1b8c41a7d721331c4839040db"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/scripts/setup/templates/postgres.yml": {
+    "mtime": 1777901180.836703,
+    "hash": "3496bcfc9428d99e99f3e47153fc3185"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/scripts/setup/templates/vllm-embed-gpu.yml": {
+    "mtime": 1777901180.836703,
+    "hash": "26eec78312a25941be240a3b52aa77a5"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/scripts/setup/templates/milvus.yml": {
+    "mtime": 1777901180.836703,
+    "hash": "df2e3cf21491e920da054e5f4cf83bef"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/scripts/setup/templates/vllm-rerank.yml": {
+    "mtime": 1777901180.836703,
+    "hash": "b55a75d9addb88e2bfd9e9a51b9b9433"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/scripts/setup/templates/mongodb.yml": {
+    "mtime": 1777901180.836703,
+    "hash": "9f0a112e94a086d52fd8b1a57ba3280b"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/scripts/setup/templates/memgraph.yml": {
+    "mtime": 1777901180.8360019,
+    "hash": "debb69de38898255944b148adc3e4f1c"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/scripts/setup/templates/vllm-embed.yml": {
+    "mtime": 1777901180.836703,
+    "hash": "413bbbd91a639e12450b4b2aef0b4a05"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/scripts/setup/templates/milvus-gpu.yml": {
+    "mtime": 1777901180.836703,
+    "hash": "dc59d6a7ad416b0ee5e3a845e3b15de5"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/scripts/setup/templates/redis.yml": {
+    "mtime": 1777901180.836703,
+    "hash": "a1ccc7c5e00038d70c405fe19b9ce382"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/scripts/setup/templates/qdrant.yml": {
+    "mtime": 1777901180.836703,
+    "hash": "dbe8601512a334e41f4f8d14d9254583"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/evaluation/README_EVALUASTION_RAGAS.md": {
+    "mtime": 1777901180.7876754,
+    "hash": "26874b685ae2377d967cad45c23ad25d"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/evaluation/sample_documents/01_lightrag_overview.md": {
+    "mtime": 1777901180.7890067,
+    "hash": "70cf2350a4b1fbf397d3eee00db32296"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/evaluation/sample_documents/02_rag_architecture.md": {
+    "mtime": 1777901180.7895143,
+    "hash": "83a2c89bb2464e895393f3ce7fe90d69"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/evaluation/sample_documents/03_lightrag_improvements.md": {
+    "mtime": 1777901180.7895143,
+    "hash": "46c2ca3c655b647807a1f85bd241cd8b"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/evaluation/sample_documents/04_supported_databases.md": {
+    "mtime": 1777901180.7895143,
+    "hash": "63d8b481ead1207470bedd1f6bebb67d"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/evaluation/sample_documents/05_evaluation_and_deployment.md": {
+    "mtime": 1777901180.7895143,
+    "hash": "5e1aa2aa593b7a5755970c15ebf358f0"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/evaluation/sample_documents/README.md": {
+    "mtime": 1777901180.7895143,
+    "hash": "d11b9caec3b8351a45dfff26af3ef297"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/tools/README_MIGRATE_LLM_CACHE.md": {
+    "mtime": 1777901180.8005164,
+    "hash": "f36cfb35e5a2bf7028db45b83886a966"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/tools/README_CLEAN_LLM_QUERY_CACHE.md": {
+    "mtime": 1777901180.7996752,
+    "hash": "d7fd170093605d798e98d53e7e9fe5b4"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/tools/lightrag_visualizer/README.md": {
+    "mtime": 1777901180.801495,
+    "hash": "a1ffc885330034b5f3da63a249854b80"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/tools/lightrag_visualizer/requirements.txt": {
+    "mtime": 1777901180.821675,
+    "hash": "f2e007629f946b7d31b3f121d6cc7a36"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/tools/lightrag_visualizer/README-zh.md": {
+    "mtime": 1777901180.8006754,
+    "hash": "678079bba9bd6807963623f429ae8df3"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/tools/lightrag_visualizer/assets/LICENSE - SmileySans.txt": {
+    "mtime": 1777901180.8016753,
+    "hash": "86cd1ce3afbe04c6de8d287d40652d94"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/tools/lightrag_visualizer/assets/LICENSE - Geist.txt": {
+    "mtime": 1777901180.8016753,
+    "hash": "563d13575f813953c3151e1ecce3b76f"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/README.assets/iShot_2025-03-23_12.40.08.png": {
+    "mtime": 1777901180.746676,
+    "hash": "6a1b5e0455117a1c4f41586f0da8e6d3"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/README.assets/b2aaf634151b4706892693ffb43d9093.png": {
+    "mtime": 1777901180.743676,
+    "hash": "c651152220b48c8b85dbde248aa760c5"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/docs/LightRAG-API-Server.assets/image-20250323122754387.png": {
+    "mtime": 1777901180.7596757,
+    "hash": "6bb881380c886401581e613bdce6b4af"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/docs/LightRAG-API-Server.assets/image-20250323123011220.png": {
+    "mtime": 1777901180.7626758,
+    "hash": "b15eb23ed76b26bca0fa25818e4cada2"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/docs/LightRAG-API-Server.assets/image-20250323194750379.png": {
+    "mtime": 1777901180.7656758,
+    "hash": "96d3f63a498e82573c54fcd5b42638f1"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/docs/LightRAG-API-Server.assets/image-20250323122538997.png": {
+    "mtime": 1777901180.756676,
+    "hash": "94a06627869d097bf74181304ed76c86"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/public/logo.svg": {
+    "mtime": 1777901180.8257778,
+    "hash": "a0be89e3bcb109756d71fefe62849d54"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag_webui/public/favicon.png": {
+    "mtime": 1777901180.824675,
+    "hash": "88d6643608da93beb3177cbb5e1439bd"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/lightrag/api/static/swagger-ui/favicon-32x32.png": {
+    "mtime": 1777901180.777034,
+    "hash": "40d4f2c38d1cd854ad463f16373cbcb6"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/assets/logo.png": {
+    "mtime": 1777901180.752676,
+    "hash": "4638915c5fe766996af3ac9ed51d432e"
+  },
+  "/home/limcheekin/dev/ws/py/LightRAG/assets/LiteWrite.png": {
+    "mtime": 1777901180.7516758,
+    "hash": "7733f3ee4de2a58795dbb24894edd9cb"
+  }
+}
